@@ -1,0 +1,24 @@
+{
+  "name": "monorepo-tailor-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parga/monorepo-tailor-serverless.git"
+  },
+  "keywords": [
+    "monorepository",
+    "lerna",
+    "serverless"
+  ],
+  "author": "Jorge Parga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parga/monorepo-tailor-serverless/issues"
+  },
+  "homepage": "https://github.com/parga/monorepo-tailor-serverless#readme"
+}
